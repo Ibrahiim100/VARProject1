@@ -1,7 +1,9 @@
 # VAR Semantic Analysis
 
+<img width="1721" alt="Screenshot 2023-11-12 at 12 07 38" src="https://github.com/Ibrahiim100/VARProject1/assets/146971578/3459fb4c-86ad-40fe-8a7a-1ec759b8119b">
 
-# This project is a web application designed to provide a semantic analysis of VAR (Video Assistant Referee) decisions in Arsenal's 2022/23 season. It visually presents the decisions made during games, along with additional details and commentaries.
+
+## This project is a web application designed to provide a semantic analysis of VAR (Video Assistant Referee) decisions in Arsenal's 2022/23 season. It visually presents the decisions made during games, along with additional details and commentaries.
 
 # Features
 Dynamic Card Display: Each game's VAR decision is represented by a clickable card, offering details on the decision, commentary, result of analysis, and date.
