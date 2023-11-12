@@ -18,7 +18,7 @@ Clone the repository to your local machine.
 
 bash
 
-git clone [[repository-url]](https://github.com/Ibrahiim100/VARProject1)
+git clone [[VARSentimentAnalysis]](https://github.com/Ibrahiim100/VARProject1)
 Open the index.html file in your preferred web browser.
 
 Explore the VAR decisions for Arsenal's 2022/23 season!
